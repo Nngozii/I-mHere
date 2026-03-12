@@ -17,7 +17,7 @@ Last-Seen Persistence: If the device dies or loses signal, the viewer shows the 
 
 Privacy-First: Location sharing is session-based and temporary, putting the sender in full control.
 
-### 🛠 Tech Stack (The "Partner" Stack)
+### 🛠 Tech Stack 
 Frontend: [Flutter / React Native] — Cross-platform mobile development.
 
 Backend: Firebase Firestore — Real-time NoSQL database for coordinate syncing.
