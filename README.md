@@ -30,3 +30,6 @@ Deployment: Firebase Hosting — For the lightweight web-based "Guardian Viewer.
 Launch: User opens the app.
 
 Trigger: User taps the "Send I'm Here" button.
+
+### Note: 
+This is a new and ongoing project
