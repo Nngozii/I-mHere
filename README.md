@@ -2,7 +2,7 @@
 "One tap to let them know you're okay."
 
 ### Overview
-I’mHere is a minimalist safety utility designed specifically for the elderly and non-tech-savvy users. While modern navigation apps are cluttered with features, I’mHere reduces the complex process of "Live Location Sharing" into a two-click experience.
+Eren is a minimalist safety utility designed specifically for the elderly and non-tech-savvy users. While modern navigation apps are cluttered with features, I’mHere reduces the complex process of "Live Location Sharing" into a two-click experience.
 
 It bridges the gap between high-end GPS tracking and the simplicity of a WhatsApp message, providing real-time peace of mind without the "surveillance" feel of traditional tracking apps.
 
